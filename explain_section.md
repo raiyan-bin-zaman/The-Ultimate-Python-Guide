@@ -11,6 +11,8 @@ This file explains the reasoning behind the Python learning roadmap sections and
 - Without these, nothing else makes sense.  
 - You’ll use these in every single ML project.  
 
+Link to my Core Language is  <a href="./1_Core Language">here</a>
+
 ---
 
 ## 🔹 2. Intermediate
